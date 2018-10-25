@@ -2,8 +2,7 @@
   "meta": {
     "username": "fcu-d0449763",
     "repositoryName": "blog",
-    "branch": "master",
-    "cname": ""
+    "branch": "master"
   },
   "theme": {
     "name": "casper"
@@ -28,31 +27,5 @@
       null
     ],
     "_Ctor": {}
-  },
-  "site": {
-    "title": "",
-    "description": "",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "",
-    "blogPath": "",
-    "googleAnalytics": "",
-    "disqus": ""
-  },
-  "socialnetwork": {
-    "email": "",
-    "github": "",
-    "twitter": "",
-    "facebook": "",
-    "googleplus": "",
-    "instagram": "",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "",
-    "stackoverflow": "",
-    "paypalme": "",
-    "opencollective": ""
-  },
-  "navigation": []
+  }
 }
